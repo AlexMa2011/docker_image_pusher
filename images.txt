@@ -1,4 +1,4 @@
-Immich
+#Immich
 ghcr.io/immich-app/immich-server:release
 ghcr.io/immich-app/immich-machine-learning:release
 ghcr.io/immich-app/immich-machine-learning:release-openvino
